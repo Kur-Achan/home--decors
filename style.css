@@ -1,0 +1,45 @@
+#form{
+    border-left: solid 2px grey;
+    width: 30%;
+    padding-left:  50px;
+    margin:  50% 50%
+
+  }
+
+  #Container{
+    border: none;
+    padding-top: 100px;
+    display: grid;
+  }
+
+
+
+  #icons{
+margin-left: 50% 50%;
+padding-right: 50px;
+display: grid;
+
+
+
+  }
+  .input{
+   padding: 12px 16px;
+   width: 75%;
+   border-radius: 5px;
+   border:solid 1px;
+
+
+  }
+
+  button{
+    padding: 8px 200px;
+    border: none;
+    border-radius: 5px;
+    color:white;
+    background-color:white
+  }
+
+ 
+
+  
+    
