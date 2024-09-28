@@ -1,43 +1,185 @@
-#form{
-    border-left: solid 2px grey;
-    width: 30%;
-    padding-left:  50px;
-    margin:  50% 50%
+.Navbar{
+  
+display: flex;
+gap: 1%; 
+margin-left: 40%;
+}
+.content{
+ display: flex; 
+ margin-left: 15%;
+ gap: 30%;
+}
+#rate{
+ display: flex; 
+ gap: 30%;
+ margin-top: 15%;
+}
+#labels{
+ display: flex;
+ gap: 30%; 
+ margin-left: 2%;
+ margin-top: 5%;
+}
+#btn{
+ border-radius: 40px; 
+ padding: 25px 45px;
+ background-color: rgb(84, 83, 83);
+ color: white;
+ border: navy;
+}
+#p{
+margin-left: 54%;
+margin-top: -10%;  
+}
+#brands{
+ display: flex; 
+ gap: 10%;
+ margin-top: 10%;
+ font-weight: normal;
+ margin-left: 15%;
+ font-size: 30px;
+}
+#ikea{
+font-weight: bolder;  
+color: rgb(130, 127, 127);
+}
+#benu{
+font-style: inherit; 
+color: rgb(130, 127, 127);
+font-weight: bold;
+}
+#sell{
+ margin-left: 15%; 
+ font-weight: normal;
+ margin-top: 8%;
+}
+.Vases{
+ display: flex; 
+ width:200px ;
+ height: 200px;
+gap: 90%;
+ margin-left: 12%;
+ margin-top: 5%;
+}
+.pots{
+display: flex;
+gap: 16%; 
+margin-left: 15%;
+margin-top: 5%;
+}
+#price-tag{
+display: flex; 
+gap: 23%; 
+margin-left: 15%;
+font-weight: normal;
+}
+#container1{
+ margin-left: 40%; 
+ margin-top: 10%;
+ font-weight: normal;
+}
+.container2{
+display: flex; 
+gap: 25%; 
+margin-left: 15%;
+margin-top: 10%;
+font-weight: normal;
+}
+#btn2{
+ border-radius: 40px; 
+ padding: 25px 45px;
+ margin-top: 8%;
+}
+#trendy{
+ font-size: 50px; 
+}
+#decor{
+ width: 400px;
+ height: 400px; 
+}
+.container3{
+display: flex;
+gap: 25%; 
+margin-left: 15%;
+margin-top: 10%;
+font-weight: normal; 
+}
+#btn3{
+border-radius: 40px; 
+padding: 25px 45px;
+margin-top: 8%; 
+}
+#table{
+width: 400px;
+height: 400px;   
+}
+#stylish{
+font-size: 50px; 
+}
+.container4{
+display: flex;
+gap: 25%; 
+margin-left: 40%;
+margin-top: 10%;
+font-weight: normal;  
+}
+#icons{
+display: flex;
+gap: 16%; 
+margin-left: 15%;
+margin-top: 10%;
+}
+#process{
+display: flex;
+gap: 15%; 
+margin-left: 15%;
+margin-top: 2%; 
+}
+#description{
+display: flex;
+gap: 13.5%; 
+margin-left: 15%; 
+font-weight: normal;
+margin-top: -1%;    
+}
+#Reviews{
+margin-left: 38%;
+margin-top: 10%;
+font-weight: normal;    
+}
+#foster{
+margin-left: 10.5%;  
+}
+#kingbar{
+width: 300px;
+height: 500px;     
+}
+.speech{
+display: flex;
+gap: 15%;
+margin-left: 23%;
+font-weight: normal;
+margin-top: 10%;
+}
+#man{
+width: 100px;
+height: 100px; 
+} 
+.footer{
+display: flex;
+gap: 15%;
+margin-left: 15%;
+font-weight: normal;
+margin-top: 10%;
+}
+#copyright{
+display: flex;
+margin-left: 15%;  
+gap: 56.8%;
+margin-top: 6%;
+}
 
-  }
 
-  #Container{
-    border: none;
-    padding-top: 100px;
-    display: grid;
-  }
-
-
-
-  #icons{
-margin-left: 50% 50%;
-padding-right: 50px;
-display: grid;
-
-
-
-  }
-  .input{
-   padding: 12px 16px;
-   width: 75%;
-   border-radius: 5px;
-   border:solid 1px;
-
-
-  }
-
-  button{
-    padding: 8px 200px;
-    border: none;
-    border-radius: 5px;
-    color:white;
-    background-color:white
-  }
 
  
 
